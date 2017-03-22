@@ -33,6 +33,7 @@ public class First1 {
             dig.digits[i] = i;
         }
         System.out.println(Arrays.toString(dig.digits));
+        System.out.println("asdasd");
     }
 }
 
